@@ -1,8 +1,8 @@
 {
   "name": "chai-aur-backend",
   "version": "1.0.0",
-  "main": "index.js",
   "type": "module",
+  "main": "index.js",
   "scripts": {
     "dev": "nodemon src/index.js"
   },
