@@ -9,7 +9,7 @@ const storage = multer.diskStorage({
   }
 })
 
-multer const upload = multer(
+const upload = multer(
     { storage,
 
     })
